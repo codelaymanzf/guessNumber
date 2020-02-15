@@ -1,6 +1,11 @@
 ## 猜数字游戏
 `react native`入门
 
+## 查看效果
+- 切换到根目录
+- `yarn android`或者`yarn react-native run-android` （有效，此版本只配置了android环境）
+- `yarn ios`或者`yarn react-native run-ios`
+
 ## 问题
 - Q: 如何按回车就提交
 - A: `TextInput`组件添加`onSubmitEditing`事件
